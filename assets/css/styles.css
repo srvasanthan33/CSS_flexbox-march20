@@ -1,0 +1,29 @@
+/* 
+
+*/
+
+* {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    background-color: black;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 70px;
+    font-weight: 450;
+}
+.image-sect {
+    background-color: rgb(32, 32, 32);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
